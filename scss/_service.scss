@@ -1,0 +1,18 @@
+.service{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 30px;
+    padding: 140px 15% 150px    ;
+    text-align: center;
+    align-items: center;
+    background-color: white;
+    .service-title{
+        font-size: 56px;
+    }
+    .service-info{
+        font-size: 20px;
+        text-align: center;
+    }
+}
